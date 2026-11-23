@@ -1,0 +1,21 @@
+Contenido del paquete MyNotes
+
+- `README.md`
+- `app/build.gradle.kts`
+- `app/src/main/AndroidManifest.xml`
+- `app/src/main/java/com/example/mynotes/MainActivity.kt`
+- `app/src/main/java/com/example/mynotes/data/Note.kt`
+- `app/src/main/java/com/example/mynotes/data/NoteDao.kt`
+- `app/src/main/java/com/example/mynotes/data/NoteDatabase.kt`
+- `app/src/main/java/com/example/mynotes/data/NoteRepository.kt`
+- `app/src/main/java/com/example/mynotes/ui/NoteViewModel.kt`
+- `app/src/main/java/com/example/mynotes/ui/NoteViewModelFactory.kt`
+- `build.gradle.kts`
+- `docs/GUIA_FIGMA_Y_FLUJOS.md`
+- `docs/GUION_VIDEO_2_MIN.md`
+- `docs/MATRIZ_DE_PRUEBAS.md`
+- `docs/REPORTE_TECNICO_PLANTILLA.md`
+- `gradle.properties`
+- `settings.gradle.kts`
+
+Aviso: proyecto base; revisar sincronización y completar visor pinch-to-zoom antes de presentarlo como entrega final.
